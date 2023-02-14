@@ -14,6 +14,6 @@ After completing this lab you will be able to:
 
 cell5 will Print a string "Hello World & IBM"
 
-[My Jupyter Notebook on IBM Watson Studio_Tamerlan Ibrahimzade.pdf]
+
 
 (https://github.com/iTamerlan25/course2_assignment/files/10729846/My.Jupyter.Notebook.on.IBM.Watson.Studio_Tamerlan.Ibrahimzade.pdf)
